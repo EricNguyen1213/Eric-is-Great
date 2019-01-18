@@ -1,0 +1,137 @@
+body {
+    background-image: url("http://www.attachmax.com/p/2018/11/best-52-lined-background-on-hipwallpaper-lined-paper-background-intended-for-lined-paper-background-tumblr.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.light-switch {
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba( 105, 105, 105, 0.8);
+    border: groove 25px DimGrey;
+    border-bottom: dashed 17px black;
+}
+.Name {
+    margin: 15px;
+    border: dotted 35px rgb( 255, 215, 0);
+    color: rgb( 218, 165, 32);
+    padding: 10px;
+    font-size: 60px;
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+}
+.date {
+    margin: 15px;
+    border: dotted 35px crimson;
+    color: HotPink;
+    padding: 5px;
+    font-size: 50px;
+    font-family: 'Coiny', cursive;
+    text-align: center;
+}
+.other {
+    height: 600px;
+    background-color: rgba( 0, 0, 0, 0.6);
+    border: solid 10px black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.arrowO {
+    height: 100px;
+    float: left;
+}
+.arrowT {
+    height: 100px;
+    float: right;
+}
+.voting {
+    display: flex;
+    justify-content: center;
+}
+.vote {
+    height: 300px;
+    text-align: center;
+}
+.forme {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.formeT {
+    height: 250px;
+}
+h3 {
+    font-family: 'Cabin', sans-serif;
+    font-size: 180px;
+    color: goldenrod;
+}
+.GREAT {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.great {
+    height: 80px;
+    width: 80px;
+}
+.g {
+    display: flex;
+    flex-direction: row;
+}
+.r {
+    display: flex;
+    flex-direction: row;
+}
+.e {
+    display: flex;
+    flex-direction: row;
+}
+.a {
+    display: flex;
+    flex-direction: row;
+}
+.t {
+    display: flex;
+    flex-direction: row;
+}
+p {
+    font-size: 35px;
+    font-family: 'Cabin', sans-serif;
+    color: goldenrod;
+}
+.Not {
+    display: flex;
+    justify-content: space-between;
+}
+.not {
+    border: groove 20px dimgrey;
+}
+.but {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    flex-direction: column;
+}
+button {
+    font-size:100px;
+}
+.Ali {
+    border: groove dimgrey 30px;
+    width: 683px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
